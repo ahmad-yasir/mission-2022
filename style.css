@@ -1,0 +1,49 @@
+.mission {
+    color: orange;
+    font-weight: bold;
+    margin: 0;
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.person1 {
+    height: 600px;
+    width: 480px;
+}
+
+.heading1 {
+    font-size: 38px;
+    border-left: 7px solid salmon;
+    padding-top: 0px;
+}
+
+.heading1 h1 {
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+a {
+    text-decoration-line: none;
+    color: white;
+    background-image: linear-gradient(tomato, tomato);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.par1 {
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 50px;
+}
