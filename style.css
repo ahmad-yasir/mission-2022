@@ -6,11 +6,30 @@
 
 body {
     font-family: 'Titillium Web', sans-serif;
-
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .flexible-container {
     display: flex;
+
+    justify-content: center;
+}
+
+.illustrator-group {
+    margin: 30px;
+}
+
+.illustrator-width {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10%;
+}
+
+.illustrator-width img {
+    width: 40%;
 }
 
 .half-width {
