@@ -6,14 +6,15 @@
 
 body {
     font-family: 'Titillium Web', sans-serif;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .flexible-container {
     display: flex;
 
     justify-content: center;
+    margin-bottom: 100px;
 }
 
 .illustrator-group {
@@ -65,4 +66,30 @@ a {
     margin-top: 100px;
     margin-left: 60px;
     margin-right: 50px;
+}
+
+
+.develop-limit {
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.develop-limit h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+.back1 {
+    margin-left: 20px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    padding: 20px;
+}
+
+footer p {
+    color: antiquewhite;
 }
